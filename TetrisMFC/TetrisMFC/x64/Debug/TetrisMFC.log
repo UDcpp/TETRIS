@@ -1,0 +1,14 @@
+﻿  TetrisMFC.cpp
+C:\Users\admin\OneDrive\바탕 화면\SF7\프로젝트4_얼렁뚱땅\TetrisMFC\TetrisMFC\resource.h(8,9): warning C4005: 'IDR_POPUP_EDIT': 매크로 재정의
+  (소스 파일 '/TetrisMFC.cpp'을(를) 컴파일하는 중)
+      C:\Users\admin\OneDrive\바탕 화면\SF7\프로젝트4_얼렁뚱땅\TetrisMFC\TetrisMFC\resource.h(7,9):
+      'IDR_POPUP_EDIT'의 이전 정의를 참조하십시오.
+  
+  TetrisMFCView.cpp
+C:\Users\admin\OneDrive\바탕 화면\SF7\프로젝트4_얼렁뚱땅\TetrisMFC\TetrisMFC\resource.h(8,9): warning C4005: 'IDR_POPUP_EDIT': 매크로 재정의
+  (소스 파일 '/TetrisMFCView.cpp'을(를) 컴파일하는 중)
+      C:\Users\admin\OneDrive\바탕 화면\SF7\프로젝트4_얼렁뚱땅\TetrisMFC\TetrisMFC\resource.h(7,9):
+      'IDR_POPUP_EDIT'의 이전 정의를 참조하십시오.
+  
+  코드를 생성하고 있습니다...
+  TetrisMFC.vcxproj -> C:\Users\admin\OneDrive\바탕 화면\SF7\프로젝트4_얼렁뚱땅\TetrisMFC\x64\Debug\TetrisMFC.exe
